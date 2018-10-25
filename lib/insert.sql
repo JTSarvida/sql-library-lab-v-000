@@ -14,4 +14,4 @@ INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (
 
 INSERT INTO character_books (id, book_id, character_id) VALUES (1, 1, 1), (2, 1, 2), (3, 1, 3), (4, 1, 4), (5, 2, 1), (6, 2, 2), (7, 2, 3), (8, 2, 4), (9, 3, 1), (10, 3, 2), (11, 3, 3), (12, 3, 4);
 
-INSERT INTO character_books (id, book_id, character_id) VALUES (13, 4, 5), (14, 4, 6), (15, 4, 7), (16, 4, 8), (17, 5, 5), (18, 5, 6), (19, 5, 7), (20, 5, 8), (21, 6, 5), (22, 6, 6), (23, 6, 7), (23, 6, 8);
+INSERT INTO character_books (id, book_id, character_id) VALUES (13, 4, 5), (14, 4, 6), (15, 4, 7), (16, 4, 8);
